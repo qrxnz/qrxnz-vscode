@@ -1,0 +1,2 @@
+# qrxnz-vscodium
+vscodium profile

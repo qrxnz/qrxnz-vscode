@@ -1,6 +1,6 @@
 # qrxnz-vscode
 
-<img src="./img/Screenshot_2023-08-13_12-40-05.png">
+<img src="./vscode.png">
 
 ## Extensions
 

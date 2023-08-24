@@ -4,6 +4,7 @@
 
 ## Extensions
 
+- carlos-algms.make-task-provider
 - Catppuccin.catppuccin-vsc
 - Catppuccin.catppuccin-vsc-icons
 - eamodio.gitlens
@@ -28,5 +29,5 @@
 - platformio.platformio-ide
 - rust-lang.rust-analyzer
 - twxs.cmake
- -vadimcn.vscode-lldb
+- vadimcn.vscode-lldb
 - vscodevim.vim

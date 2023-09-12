@@ -28,6 +28,7 @@
 - neonxp.gotools
 - platformio.platformio-ide
 - rust-lang.rust-analyzer
+- tomoki1207.pdf
 - twxs.cmake
 - vadimcn.vscode-lldb
 - vscodevim.vim

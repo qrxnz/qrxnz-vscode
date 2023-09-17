@@ -1,5 +1,3 @@
-# qrxnz-vscode
-
 <img src="./vscode.png">
 
 ## Extensions

@@ -9,7 +9,12 @@
 - formulahendry.code-runner
 - formulahendry.terminal
 - golang.go
-- MS-CEINTL.vscode-language-pack-pl
+- James-Yu.latex-workshop
+- mathematic.vscode-latex
+- ms-dotnettools.csdevkit
+- ms-dotnettools.csharp
+- ms-dotnettools.vscode-dotnet-runtime
+- ms-dotnettools.vscodeintellicode-csharp
 - ms-python.python
 - ms-python.vscode-pylance
 - ms-toolsai.jupyter
